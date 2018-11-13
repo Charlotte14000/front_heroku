@@ -1,24 +1,28 @@
-# README
+# 🌈Sparkle Project🌈
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+OXOXOXOXOXOXOXOXO![alt text](https://media3.giphy.com/media/l0LIYv9tJFIVHxF5u/200w.webp?cid=3640f6095beb2e485437504a4d028d1a)OXOXOXOXOXOXOXOXO
 
-Things you may want to cover:
+## 💾Présentation de l'application💾
 
-* Ruby version
+Cette superbe application t'envoie de la paillette. 
+Voici le lien de l'application en prod sur heroku "https://french-sparkle.herokuapp.com/"
 
-* System dependencies
+## 🎉Contenu de l'application🎉
 
-* Configuration
+* un bouton digne de ce nom
+* un avatar
+* une card
+* une navbar
+* une tabs
 
-* Database creation
+## 🌈Team Caen🌈
 
-* Database initialization
+* Max Beaufils
+* Rebecca Bossé
+* Camille Deblois
+* Iliès El Ouartassi
+* Bertrand Pelletier
+* Rauana Roupsard
+* Charlotte Vaudour
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![alt text](https://media2.giphy.com/media/L2UdIWuCRbUL6/200w.webp?cid=3640f6095beb2f8f4e504b353629e38c)
