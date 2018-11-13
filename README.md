@@ -1,6 +1,6 @@
 # 🌈Sparkle Project🌈
 
----------------------------------------![alt text](https://media3.giphy.com/media/l0LIYv9tJFIVHxF5u/200w.webp?cid=3640f6095beb2e485437504a4d028d1a)------------------------------------
+-------------------------------------------------![alt text](https://media3.giphy.com/media/l0LIYv9tJFIVHxF5u/200w.webp?cid=3640f6095beb2e485437504a4d028d1a)------------------------------------
 
 ## 💾Présentation de l'application💾
 
